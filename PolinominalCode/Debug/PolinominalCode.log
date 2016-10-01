@@ -1,0 +1,4 @@
+﻿  PolinominalCode.cpp
+c:\users\sergiy\documents\visual studio 2015\projects\polinominalcode\polinominalcode\polinominalcode.cpp(116): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sergiy\documents\visual studio 2015\projects\polinominalcode\polinominalcode\polinominalcode.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+LINK : fatal error LNK1168: не удается открыть C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\PolinominalCode\Debug\PolinominalCode.exe для записи

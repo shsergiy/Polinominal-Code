@@ -1,0 +1,9 @@
+﻿  PolinominalCode.cpp
+c:\users\sergiy\documents\visual studio 2015\projects\polinominalcode\polinominalcode\polinominalcode.cpp(58): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Polinom.cpp
+c:\users\sergiy\documents\visual studio 2015\projects\polinominalcode\polinominalcode\polinom.cpp(68): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Metods.cpp
+c:\users\sergiy\documents\visual studio 2015\projects\polinominalcode\polinominalcode\metods.cpp(20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  PolinominalCode.vcxproj -> C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\PolinominalCode\x64\Debug\PolinominalCode.exe
+  PolinominalCode.vcxproj -> C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\PolinominalCode\x64\Debug\PolinominalCode.pdb (Full PDB)
